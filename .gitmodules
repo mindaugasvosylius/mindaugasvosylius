@@ -1,0 +1,10 @@
+[submodule "themes/erblog"]
+	path = themes/erblog
+	url = https://github.com/ertuil/erblog
+[submodule "themes/hugo-notepadium"]
+	path = themes/hugo-notepadium
+	url = https://github.com/cntrump/hugo-notepadium.git
+[submodule "public"]
+	path = public
+	url = https://github.com/mindaugasvosylius/mindaugasvosylius.github.io.git
+	branch = master
